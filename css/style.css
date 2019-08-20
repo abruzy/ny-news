@@ -1,0 +1,124 @@
+html{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: white;
+    font-family: nyt-cheltenham;
+    width: 100%;
+    color: #333;
+}
+@font-face {
+    font-family: "nyt-cheltenham";
+    src: url("cheltenhamitctee_bold-webfont.woff") format("woff");
+    }
+header{
+    width: 100%;
+}
+.nav{
+    height: 40px;
+    width: 100%;
+    align-items: center;
+  justify-content: center;
+ 
+}
+.left-nav ul{
+list-style-type:none;
+}
+.left-nav ul li {
+    float: left;
+    padding-right: 24px;
+}
+.left-nav li a{
+    text-decoration: none;
+    color: black;
+}
+.righ-nav {
+    float: right;
+    display: table-header-group;
+    margin-right: 40px;
+}
+.logo {
+    position: absolute;
+    left: 50%;
+    text-align: center;
+    transform: translateX(-50%);
+    margin-top: -9px;
+
+}
+button.subscribe {
+    background-color: #6288A5;
+    color: #fff;
+    padding: 11px 20px 10px 18px;
+    border-radius: 4px;
+    border: none;
+    font-size: 13px;
+}button.login {
+    background-color: #6288A5;
+    color: #fff;
+    padding: 11px 20px 10px 18px;
+    border-radius: 4px;
+    border: none;
+    font-size: 13px;
+}
+.banner{
+    background-color: #F7F7F7;
+    height: 280px;
+    width: 100%;
+    
+}
+.banner img {
+    justify-content: center;
+    width: 80%;
+    height: 250px;
+    display: block;
+  margin: 0 auto;
+    padding-top: 20px;
+}
+.bd-heading h1{
+font-family: nyt-cheltenham;
+font-weight: 700;
+font-style: italic;
+color:#121212;
+font-size: 38px;
+text-align: center;
+
+}
+.bd-heading h1 span{
+    display: inherit;
+margin: 0 auto;
+}
+.cn-img img{
+    display: block;
+    margin: 0 auto;
+    width: 1200px;
+    height: 675px;
+    overflow: hidden;
+}
+.bd-para span {
+    display: inherit;
+    margin-left: 12rem;
+    font-family: nyt-imperial,georgia,'times new roman',times,serif;
+    color: #666;
+    font-size: 15px;
+    line-height: 1.125rem;
+}
+.bd-para{
+    margin-top: 10px;
+}
+
+.author-section {
+    text-align: center;
+    margin: 2rem auto;
+    padding: 0 24%;
+}
+
+.dec {
+    display: flex;
+    justify-content: space-between;
+}
+
+.icons a  i {
+    padding-left: 5px;
+    font-size: 21px;
+}
