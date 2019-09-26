@@ -126,10 +126,6 @@ main {
   font-size: 0.85rem;
 }
 
-.article-heading .date-and-social {
-  /* vertical-align: middle; */
-}
-
 .date-and-social .article-date {
   float: left;
   font-size: 0.75rem;
