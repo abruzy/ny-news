@@ -4,11 +4,11 @@ This is an attempt to clone New York website as part of completing the curriculu
 
 # Built With
 
-HTML
+- HTML
 
-CSS
+- CSS
 
-# Authors
-Abubakar Diallo
+##Authors
+- [Abubakar Diallo]
 
-Saba Younis
+- [Saba Younis]
