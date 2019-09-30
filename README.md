@@ -8,7 +8,7 @@ This is an attempt to clone New York website as part of completing the curriculu
 
 - CSS
 
-##Authors
+## Authors
 - [Abubakar Diallo]
 
 - [Saba Younis]
