@@ -9,6 +9,5 @@ This is an attempt to clone New York website as part of completing the curriculu
 - CSS
 
 ## Authors
-- [Abubakar Diallo]
-
-- [Saba Younis]
+- [Abubakar Diallo](https://github.com/abruzy)
+- [Saba Younis](https://github.com/sabayounis)
